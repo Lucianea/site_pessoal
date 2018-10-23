@@ -61,8 +61,8 @@ disqusShortname = ""
 
     # Button Style 2
 	[[params.navigation.button2]]
-      name = "DATAUNIRIO"
-      url = "https://dataunirio.github.io/"
+      name = "Lucianea"
+      url = "https://lucianea.github.io/"
 	  
     [[params.navigation.button2]]
       name = "GAE"
