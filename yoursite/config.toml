@@ -19,7 +19,7 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "Steven Dutt-Ross"
+  name = "Luciane Ferreira Alcoforado"
   description = "Your description"
 
   # Link custom assets relative to /static
@@ -37,8 +37,8 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-    title = "STEVEN"
-    subtitle = "Dutt-Ross"
+    title = "ALCOFORADO"
+    subtitle = "LUCIANE"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -77,7 +77,7 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Bem vindo aos projetos do professor Steven Dutt-Ross"
+    title = "Bem vindo aos projetos da professora Luciane Alcoforado"
     subtitle = "professor do Departamento de Métodos Quantitativos da UNIRIO."
     buttonText = "Iniciar"
 
